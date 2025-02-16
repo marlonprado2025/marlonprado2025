@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marlonprado2025
 - 👀 I’m interested in jobs free lance
-- 🌱 I’m currently learning programação no DevClub
+- 🌱 I’m currently learning programming in DevClub
 - 💞️ I’m looking to collaborate on jobs Full stack
 - 📫 How to reach me www.linkedin.com/in/marlon-prado-2025-devclub
 
